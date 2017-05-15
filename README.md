@@ -1,5 +1,7 @@
 # SEOTools - SEO Tools for Laravel and Lumen
 
+http://www.blink-seo.co.uk/
+
 SEOTools is a package for **Laravel 5+** and **Lumen** that provides helpers for some common SEO techniques.
 
 http://www.locallife.co.uk/c-c/blink-seo-london.asp
