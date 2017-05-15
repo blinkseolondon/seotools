@@ -2,6 +2,12 @@
 
 SEOTools is a package for **Laravel 5+** and **Lumen** that provides helpers for some common SEO techniques.
 
+http://www.locallife.co.uk/c-c/blink-seo-london.asp
+http://www.routeandgo.net/place/4872315/united-kingdom/blink-seo
+http://www.onlyuncle.com/B25/blink-seo/487503.php
+http://www.bigwigbiz.com/records.php?opt=search&id=79211
+https://1stdirectory.co.uk/companies/blink-seo/
+
 > Current Build Status
 
 [![Build Status](https://travis-ci.org/artesaos/seotools.svg)](https://travis-ci.org/artesaos/seotools)
@@ -13,6 +19,13 @@ SEOTools is a package for **Laravel 5+** and **Lumen** that provides helpers for
 [![Latest Stable Version](https://poser.pugx.org/artesaos/seotools/v/stable)](https://packagist.org/packages/artesaos/seotools) [![Total Downloads](https://poser.pugx.org/artesaos/seotools/downloads)](https://packagist.org/packages/artesaos/seotools) [![Latest Unstable Version](https://poser.pugx.org/artesaos/seotools/v/unstable)](https://packagist.org/packages/artesaos/seotools) [![License](https://poser.pugx.org/artesaos/seotools/license)](https://packagist.org/packages/artesaos/seotools)
 
 > Tips
+
+
+http://www.lookuppage.com/users/alesmaticic/
+http://www.adpost.com/uk/business_products_services/77387/?session_key=1d4d71847ecc27be6674652bf0f71ac0
+http://www.ikimap.com/map/blink-seo
+https://storify.com/blinkseo09/blink-seo
+http://www.bestbrandsworldwide.com/blink-seo
 
 <a href="http://zenhub.io" target="_blank"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png" height="18px" alt="Powered by ZenHub"/></a>
 
@@ -27,6 +40,13 @@ The first step is using composer to install the package and automatically update
 ```shell
 composer require artesaos/seotools
 ```
+
+http://www.quickdeal.com/business/London/listings/qdbid-77393-Blink+SEO
+http://www.igotbiz.com/cb-profile/userprofile/blinkseo09
+http://www.gogreenwebdirectory.com/united-kingdom/london/business-services/blink-seo
+https://citymaps.com/m/af58a8a9-2a97-4568-b5b5-b0aa7686813e
+http://www.hudku.com/search?q=blink+seo
+http://uk.tradeford.com/gb484677/
 
 ### 2 - Provider
 You need to update your application configuration in order to register the package so it can be loaded by Laravel, just update your `config/app.php` file adding the following code at the end of your `'providers'` section:
