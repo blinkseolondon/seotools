@@ -138,6 +138,11 @@ $opengraph = app('seotools.opengraph');
 echo app('seotools')->generate();
 
 ```
+https://www.webwiki.com/blink-seo.co.uk
+http://www.smartguy.com/home/company/blink-seo-168676
+http://www.bizexposed.com/City_of_London-GBR/B/Blink_SEO-London.php
+https://issuu.com/blinkseo
+https://uk-locate.co.uk/search/view-biz.php?id=1394437
 
 ### Meta tags Generator
 With **SEOMeta** you can create meta tags to the `head`
